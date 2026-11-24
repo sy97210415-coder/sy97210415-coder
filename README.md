@@ -4,53 +4,70 @@
 
 ### IT, Accounts & Business Operations Professional
 
-**Software Development | Digital Marketing | B2B Sales**
+**Software Development · Digital Marketing · B2B Sales**
 
-**Founder of NEXURAX — IT Solutions & Services**
+**Founder & Software Developer — NEXURAX**
 
-Building Technology. Empowering Businesses.
+*Bridging Technology, Finance and Business Innovation.*
 
-📍 Thane, Maharashtra, India
+Thane, Maharashtra, India
 
-[Official Website](https://www.nexurax.in/) |
-[GitHub Profile](https://github.com/sy97210415-coder) |
-[Software Downloads](https://github.com/sy97210415-coder/nexurax-downloads/releases) |
-[Contact](https://www.nexurax.in/p/contact.html)
+[Official Website](https://www.nexurax.in/) •
+[Software Downloads](https://github.com/sy97210415-coder/nexurax-downloads/releases) •
+[Contact Me](https://www.nexurax.in/p/contact.html)
+
+---
+
+[About Me](#professional-summary) |
+[Experience](#professional-experience) |
+[Expertise](#professional-expertise) |
+[Projects](#software-project-portfolio) |
+[Education](#education--certifications)
 
 </div>
 
 ---
 
-## 01 — Professional Summary
+## Professional Summary
 
-I am a multidisciplinary professional with nearly two years of experience across accounting, finance, IT operations, multi-branch business management and industrial B2B sales.
+I am a multidisciplinary professional with nearly two years of experience across accounting, finance, information technology, multi-branch business operations and industrial B2B sales.
 
-My professional background combines financial management, software development, business process automation, digital marketing and customer acquisition.
+My professional background combines financial operations, software development, digital marketing and business process automation, enabling me to understand business challenges from both operational and technological perspectives.
 
-I have practical experience in supplier payments, accounts payable, financial reconciliation, purchase verification, business reporting, industrial sales, lead generation and software development.
+I have practical experience in accounts payable, supplier payments, financial reconciliation, purchase accounting, industrial sales, customer relationship management and digital business solutions.
 
-I am also the Founder of **NEXURAX — IT Solutions & Services**, an independent technology venture focused on developing practical business software and digital automation solutions.
+As the Founder of **NEXURAX — IT Solutions & Services**, I focus on developing practical software products that simplify business operations, improve productivity and support digital transformation.
 
 Currently pursuing a Bachelor of Computer Applications (BCA) from Indira Gandhi National Open University (IGNOU).
 
 ---
 
-## 02 — Professional Highlights
+## Career Highlights
 
-| Professional Metric | Experience |
-| :--- | :--- |
-| Professional Experience | Nearly 2 Years |
-| Multi-Branch Operations | 26+ Retail Branches |
-| Selected Software Projects | 10 Projects |
-| Professional Certifications | 2 |
-| Business Experience | Retail & Industrial B2B |
-| Technology Venture | Founder of NEXURAX |
-| Education | BCA — Pursuing |
-| Location | Thane, Maharashtra, India |
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>~2 Years</h2>
+Professional Experience
+</td>
+<td align="center" width="25%">
+<h2>26+</h2>
+Retail Branch Operations
+</td>
+<td align="center" width="25%">
+<h2>10</h2>
+Selected Software Projects
+</td>
+<td align="center" width="25%">
+<h2>02</h2>
+Professional Certifications
+</td>
+</tr>
+</table>
 
 ---
 
-## 03 — Professional Experience
+## Professional Experience
 
 ### TRICON STEEL & ALLOYS
 
@@ -58,38 +75,28 @@ Currently pursuing a Bachelor of Computer Applications (BCA) from Indira Gandhi 
 
 Mumbai, Maharashtra, India
 
-**05 October 2026 – Present**
+`05 October 2026 – Present`
 
-#### Roles & Responsibilities
+#### Business Development & Sales
 
 - Manage domestic and international B2B lead generation and business development activities.
-- Handle customer inquiries, RFQs, quotations, pricing and commercial follow-ups.
+- Handle customer inquiries, RFQs, commercial quotations, pricing and negotiations.
 - Conduct industrial market research and identify potential buyers and end-users.
 - Execute email and WhatsApp marketing campaigns for customer acquisition.
 - Coordinate with suppliers regarding material availability, pricing and procurement.
-- Maintain customer databases, inquiry records and sales documentation.
+- Maintain customer databases, inquiry records and commercial documentation.
 - Support customer relationship management and sales process automation.
 
 #### Industrial Product Knowledge
 
-- Stainless Steel
-- Carbon Steel
-- Alloy Steel
-- Industrial Pipes & Tubes
-- Pipe Fittings
-- Industrial Flanges
-- Sheets & Plates
-
-#### Core Business Functions
-
-| Function | Responsibilities |
+| Material Categories | Product Categories |
 | :--- | :--- |
-| Lead Generation | Domestic & International Markets |
-| Sales Management | Customer Inquiries & Follow-ups |
-| Commercial Operations | RFQs, Quotations & Pricing |
-| Procurement Support | Supplier Coordination |
-| Digital Marketing | Email & WhatsApp Campaigns |
-| CRM | Customer & Inquiry Management |
+| Stainless Steel | Pipes & Tubes |
+| Carbon Steel | Pipe Fittings |
+| Alloy Steel | Industrial Flanges |
+| Industrial Metals | Sheets & Plates |
+
+**Core Focus:** B2B Sales, Industrial Marketing, RFQ Management, Commercial Operations and Customer Acquisition.
 
 ---
 
@@ -99,52 +106,53 @@ Mumbai, Maharashtra, India
 
 Thane, Maharashtra, India
 
-**27 December 2024 – 10 September 2026**
+`27 December 2024 – 10 September 2026`
 
-#### Accounting & Financial Operations
+#### Accounting & Financial Management
 
 - Managed accounting, financial and operational activities across 26+ retail branches.
 - Processed supplier and vendor payments through Cheque, NEFT and online bank transfers.
 - Managed accounts payable, purchase bill verification and payment vouchers.
-- Maintained outstanding payment records and supplier ledgers.
-- Prepared cheques and maintained financial documentation.
-- Maintained purchase records and paid/unpaid bill details.
+- Maintained supplier ledgers, outstanding payments and financial documentation.
+- Prepared cheques and maintained paid and unpaid bill records.
+- Managed vendor commission calculations and payment settlements.
 
-#### Financial Reconciliation
+#### Financial Reconciliation & Auditing
 
-- Conducted Daily Cash Declaration (DCD) audits.
-- Managed branch-wise financial reconciliation.
+- Conducted Daily Cash Declaration (DCD) audits and branch-wise financial reconciliation.
 - Reconciled cash, cheque, UPI, credit card and debit card transactions.
-- Managed digital payment gateway reconciliation.
-- Verified vendor commission calculations and payment settlements.
-- Managed counter-wise sales reconciliation.
+- Verified counter-wise sales, commission calculations and vendor settlements.
+- Maintained financial reporting and digital payment reconciliation records.
 
-#### Payment Gateways & Platforms
-
-| Category | Platforms |
+| Payment Category | Platforms |
 | :--- | :--- |
 | Banking | ICICI Bank |
 | Digital Payments | Paytm, Pine Labs |
 | Corporate Payments | Sodexo, AMEX |
-| Food Aggregators | Swiggy, Zomato |
-| POS & Retail Management | GoFrugal POS |
+| Online Aggregators | Swiggy, Zomato |
+| Retail Management | GoFrugal POS |
 
-#### IT & Business Operations
+#### Information Technology & Business Operations
 
 - Worked with GoFrugal POS, item master data, inventory records and sales reports.
 - Coordinated with branch managers, cashiers, suppliers and internal departments.
-- Provided IT support and resolved software-related operational issues.
-- Developed internal tools for financial reporting and workflow automation.
-- Designed attendance, salary calculation, payroll and advance management systems.
+- Provided technical support and resolved software-related operational issues.
+- Developed internal software tools for financial reporting and workflow automation.
+- Designed attendance, payroll, salary calculation and advance management systems.
+- Supported multi-branch operational management and digital reporting.
 
-#### Internal Software Initiatives
+#### Internal Technology Initiatives
 
-- Daily Cash Declaration System
-- Financial Reconciliation Tools
-- Vendor Commission Settlement System
-- Attendance & Payroll Management
-- Salary & Advance Management
-- Business Workflow Automation
+| Project | Business Application |
+| :--- | :--- |
+| Daily Cash Declaration System | Branch-wise Cash Reporting |
+| Financial Reconciliation Tools | Financial Verification |
+| Vendor Commission Settlement | Commission & Payment Management |
+| Attendance & Payroll System | Employee Management |
+| Salary & Advance Management | Payroll Operations |
+| Workflow Automation | Business Process Improvement |
+
+**Core Focus:** Accounting, Financial Reconciliation, Retail Operations, IT Support and Business Automation.
 
 ---
 
@@ -152,49 +160,46 @@ Thane, Maharashtra, India
 
 **Founder & Software Developer**
 
-Independent Technology Venture
+`Independent Technology Venture`
 
-**Official Website:** [www.nexurax.in](https://www.nexurax.in/)
+Official Website: [www.nexurax.in](https://www.nexurax.in/)
 
-NEXURAX is a technology venture focused on developing professional software, business productivity applications and digital automation solutions.
+NEXURAX is an independent technology venture focused on developing business-oriented software products, productivity applications and digital automation solutions.
 
-#### Roles & Responsibilities
+#### Product Development & Technology
 
-- Develop business-oriented desktop, web and Android applications.
-- Design software solutions for billing, CRM, accounting, HRMS and payroll.
+- Develop Windows desktop, web and Android applications.
+- Design software solutions for accounting, billing, CRM, HRMS and payroll.
 - Develop database-driven applications and Chrome extensions.
-- Build responsive websites and business management tools.
-- Work on software integration, API integration and AI-assisted development.
-- Conduct SEO ranking analysis, keyword research and website performance checking.
-- Manage Meta Ads campaigns, digital marketing and product promotion.
+- Build responsive websites and digital business platforms.
+- Work on API integration, software integration and AI-assisted development.
+- Manage software architecture, product planning and feature development.
+- Focus on practical user experience and business workflow optimization.
+
+#### Digital Marketing & Business Growth
+
+- Conduct SEO ranking analysis and keyword research.
+- Monitor website search visibility and performance.
+- Manage Meta Ads and digital marketing campaigns.
 - Monitor website traffic using Google Analytics.
-- Manage software product planning, branding and feature development.
+- Develop email marketing and customer acquisition solutions.
+- Manage software product branding and digital promotion.
 
-#### Technology Focus
-
-- Business Software Development
-- Desktop Application Engineering
-- Web Application Development
-- Android Application Development
-- Chrome Extension Development
-- Business Process Automation
-- Database Management
-- Digital Marketing Technology
-- AI-Assisted Software Development
+**Core Focus:** Software Engineering, Business Automation, Product Development and Digital Innovation.
 
 ---
 
-## 04 — Professional Skills
+## Professional Expertise
 
 ### Accounting & Finance
 
-| Skill Area | Expertise |
+| Competency | Professional Skills |
 | :--- | :--- |
 | Accounts Payable | Supplier & Vendor Payments |
 | Banking Operations | Cheque, NEFT & Online Transfers |
 | Purchase Accounting | Purchase Bill Verification |
 | Financial Documentation | Payment Vouchers & Supplier Ledgers |
-| Reconciliation | Cash, Bank & Digital Payments |
+| Financial Reconciliation | Cash, Bank & Digital Payments |
 | Outstanding Management | Paid & Unpaid Bill Tracking |
 | Taxation | GST Billing |
 | Financial Reporting | Branch-wise Financial Reports |
@@ -202,25 +207,25 @@ NEXURAX is a technology venture focused on developing professional software, bus
 
 ### Software Development & IT
 
-| Category | Technologies |
+| Technology Category | Technologies |
 | :--- | :--- |
-| Programming | JavaScript, C# |
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Node.js |
-| Desktop | Electron.js, .NET, WinForms |
-| Database | SQLite |
-| Automation | Google Apps Script |
-| Mobile | Android Application Development |
-| Browser | Chrome Extension Development |
-| Integration | API Integration |
-| Development | AI-Assisted Development |
-| IT Operations | Technical Support & Troubleshooting |
+| Programming Languages | JavaScript, C# |
+| Web Development | HTML5, CSS3, JavaScript |
+| Backend Development | Node.js |
+| Desktop Development | Electron.js, .NET, WinForms |
+| Database Management | SQLite |
+| Cloud Automation | Google Apps Script |
+| Mobile Development | Android Applications |
+| Browser Development | Chrome Extensions |
+| Software Integration | API Integration |
+| Development Approach | AI-Assisted Development |
+| Technical Operations | IT Support & Troubleshooting |
 
 ### Digital Marketing & SEO
 
-- SEO Ranking Analysis
-- Keyword Research
-- Website SEO Checking
+- Search Engine Optimization (SEO)
+- Keyword Research & Ranking Analysis
+- Website SEO Auditing
 - Competitor Research
 - Google Search Ranking Monitoring
 - Meta Ads Manager
@@ -237,18 +242,19 @@ NEXURAX is a technology venture focused on developing professional software, bus
 
 - Domestic & International Lead Generation
 - Industrial Market Research
-- RFQ Management
-- Quotation Preparation
-- Customer Follow-up
+- Customer Inquiry Management
+- RFQ & Quotation Preparation
+- Commercial Follow-up
 - Customer Relationship Management
 - Supplier Coordination
 - Procurement Support
 - Sales Documentation
-- B2B Marketing
+- B2B Marketing & Customer Acquisition
 
 ### Business Operations & Automation
 
-- Multi-Branch Business Operations
+- Multi-Branch Business Management
+- Retail Operations
 - Inventory Management
 - POS Management
 - Financial Workflow Automation
@@ -256,189 +262,270 @@ NEXURAX is a technology venture focused on developing professional software, bus
 - Browser Automation
 - Marketing Automation
 - Data Management
+- Business Process Optimization
 
 ---
 
-## 05 — Software & Professional Tools
-
-| Category | Software & Tools |
-| :--- | :--- |
-| Office Productivity | Microsoft Excel, Microsoft Word |
-| Cloud Productivity | Google Sheets, Google Docs |
-| Retail & POS | GoFrugal POS |
-| Software Development | Visual Studio, Visual Studio Code |
-| Version Control | GitHub |
-| AI Development | Google AI Studio |
-| Digital Advertising | Meta Ads Manager |
-| Web Analytics | Google Analytics |
-| App Monetization | Google AdMob |
-| Database | SQLite |
-
----
-
-## 06 — Software Project Portfolio
-
-### NEXURAX MailDesk
-
-**Email Marketing & Business Outreach Software**
-
-Professional email marketing and business outreach automation solution.
-
-**Domain:** Email Marketing & Business Productivity
-
----
-
-### NEXURAX MultiChat
-
-**Multi-Account WhatsApp Management Software**
-
-Centralized application for managing multiple WhatsApp accounts.
-
-**Domain:** Business Communication
-
----
-
-### NEXURAX LeadDesk
-
-**B2B Lead Management Software**
-
-Business lead management and customer follow-up solution.
-
-**Domain:** B2B Sales & CRM
-
----
-
-### NEXURAX RankDesk
-
-**SEO & Website Ranking Analysis**
-
-Website SEO checking and keyword ranking analysis tool.
-
-**Domain:** Digital Marketing & SEO
-
----
-
-### NEXURAX FinPrint
-
-**Professional Cheque Printing Software**
-
-Cheque printing and financial record management application.
-
-**Domain:** Accounting & Finance
-
----
-
-### NEXURAX CatalogPilot
-
-**Product Catalogue Automation**
-
-Browser-based product catalogue automation tool.
-
-**Domain:** E-Commerce & Browser Automation
-
----
-
-### DocScanX
-
-**Android PDF Scanner, Creator & Editor**
-
-Mobile application for document scanning, PDF creation and editing.
-
-**Domain:** Android & Document Productivity
-
----
-
-### Daily Cash Declaration System
-
-**Multi-Branch Financial Reconciliation**
-
-Business solution for branch-wise cash reporting and financial reconciliation.
-
-**Domain:** Accounting & Retail Operations
-
----
-
-### Vendor Commission Settlement System
-
-**Vendor Payment Management**
-
-Commission calculation and vendor payment management solution.
-
-**Domain:** Financial Operations
-
----
-
-### Office Workflow Management System
-
-**Business Inquiry & Quotation Management**
-
-Integrated solution for inquiries, quotations, CRM and customer follow-ups.
-
-**Status:** Under Development
-
-**Domain:** Business Management & CRM
-
----
+## Technology Stack
 
 <div align="center">
 
-### Official Software Downloads
+### Programming & Development
 
-[Explore NEXURAX Software Releases](https://github.com/sy97210415-coder/nexurax-downloads/releases)
+`JavaScript` · `C#` · `HTML5` · `CSS3`
+
+### Frameworks & Platforms
+
+`Node.js` · `Electron.js` · `.NET` · `WinForms` · `Android`
+
+### Database & Integration
+
+`SQLite` · `Google Apps Script` · `REST API`
+
+### Development Environment
+
+`GitHub` · `Visual Studio` · `VS Code` · `Google AI Studio`
+
+### Marketing & Analytics
+
+`Meta Ads` · `Google Analytics` · `Google AdMob` · `SEO`
+
+### Business & Productivity
+
+`Microsoft Excel` · `Microsoft Word` · `Google Sheets` · `GoFrugal POS`
 
 </div>
 
 ---
 
-## 07 — Educational Qualifications
+## Software Project Portfolio
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>NEXURAX MailDesk</h3>
+
+<strong>Email Marketing & Business Outreach</strong>
+
+<p>Professional email marketing and personalized business outreach automation software.</p>
+
+<code>Windows</code> <code>Marketing</code> <code>Automation</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>NEXURAX MultiChat</h3>
+
+<strong>Multi-WhatsApp Management</strong>
+
+<p>Centralized application for managing multiple WhatsApp accounts and business communication.</p>
+
+<code>Windows</code> <code>Communication</code>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>NEXURAX LeadDesk</h3>
+
+<strong>B2B Lead Management</strong>
+
+<p>Business lead management, customer follow-up and sales productivity solution.</p>
+
+<code>Windows</code> <code>CRM</code> <code>B2B</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>NEXURAX RankDesk</h3>
+
+<strong>SEO & Ranking Analysis</strong>
+
+<p>Website SEO checking, keyword ranking analysis and search visibility monitoring.</p>
+
+<code>Chrome</code> <code>SEO</code> <code>Analytics</code>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>NEXURAX FinPrint</h3>
+
+<strong>Professional Cheque Printing</strong>
+
+<p>Cheque printing, financial record management and payment documentation software.</p>
+
+<code>Windows</code> <code>Finance</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>NEXURAX CatalogPilot</h3>
+
+<strong>Product Catalogue Automation</strong>
+
+<p>Browser-based product catalogue management and business workflow automation.</p>
+
+<code>Chrome</code> <code>Automation</code>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>DocScanX</h3>
+
+<strong>PDF Scanner, Creator & Editor</strong>
+
+<p>Android application for document scanning, PDF creation and document editing.</p>
+
+<code>Android</code> <code>PDF</code> <code>Productivity</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Daily Cash Declaration System</h3>
+
+<strong>Multi-Branch Financial Reporting</strong>
+
+<p>Branch-wise cash reporting, financial verification and payment reconciliation system.</p>
+
+<code>Finance</code> <code>Retail</code>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>Vendor Commission Settlement</h3>
+
+<strong>Vendor Payment Management</strong>
+
+<p>Commission calculation, counter-wise settlement and vendor payment management solution.</p>
+
+<code>Accounting</code> <code>Finance</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Office Workflow Management</h3>
+
+<strong>Inquiry, Quotation & CRM</strong>
+
+<p>Integrated business inquiry, quotation and customer follow-up management solution.</p>
+
+<code>CRM</code> <code>Under Development</code>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### Explore NEXURAX Software
+
+**[Official Website](https://www.nexurax.in/)**
+
+**[Download Software & View Releases](https://github.com/sy97210415-coder/nexurax-downloads/releases)**
+
+</div>
+
+---
+
+## Additional Product Initiatives
+
+| Product | Solution |
+| :--- | :--- |
+| NEXURAX MailDesk Web | Gmail & Outlook Email Productivity Extension |
+| NEXURAX MenuDesk | Restaurant Menu Management |
+| NEXURAX AttendDesk | Attendance & Payroll Management |
+| NEXURAX POS | Retail & Restaurant Billing Solutions |
+
+---
+
+## Education & Certifications
 
 ### Bachelor of Computer Applications (BCA)
 
 **Indira Gandhi National Open University (IGNOU)**
 
-Status: Currently Pursuing
+`Currently Pursuing`
+
+Academic focus on computer applications, software development, information technology and database management.
+
+### Professional Certifications
+
+| Certification | Qualification | Year |
+| :--- | :--- | :--- |
+| Field Technician – Computing & Peripherals | NSQF Level 4 | August 2024 |
+| Web Design & Development | NSQF Level 5 | — |
 
 ---
 
-## 08 — Professional Certifications
+## Core Professional Strengths
 
-| Certification | Qualification |
-| :--- | :--- |
-| Field Technician – Computing & Peripherals | NSQF Level 4 |
-| Web Design & Development | NSQF Level 5 |
+<table>
+<tr>
+<td width="50%">
 
-**Field Technician Certification:** August 2024
+- Analytical Thinking
+- Problem Solving
+- Financial Accuracy
+- Attention to Detail
 
----
+</td>
+<td width="50%">
 
-## 09 — Core Professional Strengths
-
-- Analytical Thinking & Problem Solving
-- Financial Accuracy & Attention to Detail
-- Business Process Management
 - Technical Troubleshooting
 - Team Coordination
-- Customer Relationship Management
 - Time Management
-- Adaptability & Continuous Learning
+- Continuous Learning
+
+</td>
+</tr>
+<tr>
+<td>
+
+- Business Process Management
+- Customer Relationship Management
+
+</td>
+<td>
+
+- Adaptability
+- Technology-Driven Innovation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 10 — Professional Areas of Interest
+## Professional Development Approach
 
-| Domain | Focus |
-| :--- | :--- |
-| Software Engineering | Business & Productivity Applications |
-| Accounting & Finance | Financial Process Management |
-| Artificial Intelligence | AI-Assisted Business Solutions |
-| Business Automation | Workflow Optimization |
-| Digital Marketing | SEO, Advertising & Lead Generation |
-| B2B Business | Industrial Sales & Market Development |
-| Entrepreneurship | Technology Product Development |
+```mermaid
+flowchart TD
+    A[Business Requirements] --> B[Research and Planning]
+    B --> C[Solution Architecture]
+    C --> D[Design and Development]
+    D --> E[Testing and Validation]
+    E --> F[Deployment]
+    F --> G[Performance Monitoring]
+    G --> H[Continuous Improvement]
+```
+
+My approach combines business understanding, financial accuracy and practical software engineering to develop solutions that address real operational challenges.
 
 ---
 
-## 11 — About NEXURAX
+## About NEXURAX
 
 <div align="center">
 
@@ -448,44 +535,67 @@ Status: Currently Pursuing
 
 **POWERING NEXT GEN TECH**
 
-Software Engineering | Business Automation | Digital Innovation
+*Innovative Software. Intelligent Automation. Better Business.*
 
 </div>
 
-NEXURAX focuses on developing practical technology solutions that simplify business operations, improve productivity and support digital transformation.
+NEXURAX focuses on developing practical technology solutions that simplify business processes, improve productivity and support digital transformation.
 
-### Professional Solutions
+| Business Domain | Technology Solutions |
+| :--- | :--- |
+| Software Engineering | Desktop, Web & Android Applications |
+| Financial Technology | Accounting, Billing & Cheque Printing |
+| Business Management | CRM, HRMS, Payroll & POS |
+| Digital Marketing | Email Marketing & SEO Tools |
+| Business Automation | Workflow & Browser Automation |
+| Communication | Multi-Account Communication Tools |
+| Product Development | Business Productivity Applications |
 
-- Custom Software Development
-- Desktop & Web Applications
-- Android Applications
-- Chrome Extensions
-- Accounting & Financial Software
-- Billing & POS Systems
-- CRM & Lead Management
-- HRMS & Payroll Solutions
-- Business Process Automation
-- Digital Marketing Tools
+### Mission
 
-**[Explore Official Website](https://www.nexurax.in/)**
+To make professional technology accessible through reliable, practical and user-friendly software solutions.
+
+### Vision
+
+To build a technology ecosystem that connects business requirements with meaningful digital innovation.
+
+<div align="center">
+
+**[Visit NEXURAX Official Website](https://www.nexurax.in/)**
+
+</div>
 
 ---
 
-## 12 — Languages & Location
+## Professional Interests
+
+- Software Engineering & Product Development
+- Accounting & Financial Technology
+- Artificial Intelligence & Business Automation
+- Digital Marketing & Data Analytics
+- Enterprise Business Management
+- Industrial B2B Sales & International Markets
+- Technology Entrepreneurship
+- Business Process Digitalization
+
+---
+
+## Languages & Location
 
 | Information | Details |
 | :--- | :--- |
 | Languages | Hindi & English |
+| Nationality | Indian |
 | Location | Thane, Maharashtra, India |
 
 ---
 
-## 13 — Official Links & Contact
+## Connect With Me
 
-| Platform | Link |
+| Platform | Official Link |
 | :--- | :--- |
-| Official Website | [www.nexurax.in](https://www.nexurax.in/) |
-| GitHub Profile | [Shivam Yadav](https://github.com/sy97210415-coder) |
+| Website | [www.nexurax.in](https://www.nexurax.in/) |
+| GitHub | [Shivam Yadav](https://github.com/sy97210415-coder) |
 | Software Downloads | [NEXURAX Releases](https://github.com/sy97210415-coder/nexurax-downloads/releases) |
 | Business Inquiries | [Contact NEXURAX](https://www.nexurax.in/p/contact.html) |
 | Privacy Policy | [View Privacy Policy](https://www.nexurax.in/p/privacy-policy.html) |
@@ -497,25 +607,25 @@ NEXURAX focuses on developing practical technology solutions that simplify busin
 
 ## Let's Build Something Meaningful Together
 
-Open to professional opportunities, software projects,
-business collaborations and technology partnerships.
+Open to professional opportunities, software projects, business collaborations and technology partnerships.
 
-**Accounting · Technology · Business · Innovation**
+**Technology · Finance · Business · Innovation**
 
 ---
 
 ### SHIVAM YADAV
 
-IT, Accounts & Business Operations Professional
+**IT, Accounts & Business Operations Professional**
 
-Founder of NEXURAX
+Founder — NEXURAX
 
-**Building Technology. Empowering Businesses.**
+*Building Technology. Empowering Businesses.*
 
-[Connect With Me](https://www.nexurax.in/p/contact.html)
+[Official Website](https://www.nexurax.in/) •
+[Contact Me](https://www.nexurax.in/p/contact.html)
 
 ---
 
-Copyright © 2026 Shivam Yadav. All Rights Reserved.
+<sub>Copyright © 2026 Shivam Yadav | NEXURAX. All Rights Reserved.</sub>
 
 </div>
